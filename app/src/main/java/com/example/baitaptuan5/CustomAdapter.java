@@ -15,8 +15,8 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.ViewHolder
     ArrayList<Music> mMusics;
     OnClickListener listener;
 
-    public CustomAdapter(ArrayList<Music> mMusics,OnClickListener listener) {
-        mMusics = mMusics;
+    public CustomAdapter(ArrayList<Music> mMusics, OnClickListener listener) {
+        this.mMusics = mMusics;
         this.listener = listener;
     }
 
