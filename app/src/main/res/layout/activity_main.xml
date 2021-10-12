@@ -118,7 +118,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:fontFamily="@font/autour_one"
-        android:text="00:50"
+        android:text="00:00"
         android:textColor="#A5C0FF"
         app:layout_constraintBottom_toTopOf="@+id/progressB"
         app:layout_constraintEnd_toEndOf="parent"
